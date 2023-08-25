@@ -17,6 +17,12 @@ If you have an idea for an integration, plugin, blog post, or something else you
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/jacob-marks/)!
 
+## Things I Care About
+
+- ⚛️ Physics
+- 🌎 Climate
+- 📖 Open source | Open science
+- 🫀 Building with purpose
 
 ## Awesome Open Source Projects
 Here is a short list of some open source libraries I love ❤️! I've contributed to some of them, and some I just love using 😎 
@@ -31,6 +37,7 @@ Here is a short list of some open source libraries I love ❤️! I've contribut
 
 ### LLMs
 - [LangChain](https://github.com/langchain-ai/langchain)
+- [LangKit](https://github.com/whylabs/langkit)
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)
 
 ### Vector Databases
