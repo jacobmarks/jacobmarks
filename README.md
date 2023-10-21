@@ -88,11 +88,13 @@ I regularly contribute to technical topics on [Medium](https://medium.com/@jacob
   
 </details>
 
-## 📬 Get in Touch
+## 🤗 Connect!
+
+<a href="https://www.linkedin.com/in/jacob-marks" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@jacob_marks" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://twitter.com/QuantumMarks" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 If you have an idea for an integration, plugin, blog post, or something else you'd like to chat about, feel free to reach out!
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/jacob-marks/)!
 
 ## Things I Care About
 
@@ -141,34 +143,3 @@ Here is a short list of some open source libraries I love ❤️! I've contribut
 
 
 
-<!--
-**jacobmarks/jacobmarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-  <!-- <table>
-  <tr>
-    <td align="center" style="border: none;">
-      
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/YourUsername/Project2">
-        <img src="https://example.com/path/to/thumbnail2.jpg" alt="Project 2" style="width: 128px; border-radius: 8px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);"/><br />
-        <span style="font-weight: bold; font-size: 16px;">Project 2</span><br />
-        <span style="font-size: 12px; color: #555;">Description</span>
-      </a>
-    </td>
-  </tr>
-  <!-- Add more rows as needed -->
-<!-- </table> -->
