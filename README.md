@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/jacobmarks/jacobmarks/assets/12500356/4227bd98-2cfd-4a54-a2fe-9e8d127c831a" alt="Lattice to NN">
+</div>
+
 ## 👋 Hi there! 
 
 I'm Jacob, a Machine Learning Engineer & Developer Evangelist at 
