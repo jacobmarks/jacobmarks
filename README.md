@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jacobmarks/jacobmarks/assets/12500356/4227bd98-2cfd-4a54-a2fe-9e8d127c831a" alt="Lattice to NN">
+  <img src="https://github.com/jacobmarks/jacobmarks/assets/12500356/e89df478-acf6-4eee-8dc9-8a97d513051c" alt="Lattice to NN">
 </div>
 
 ## 👋 Hi there! 
