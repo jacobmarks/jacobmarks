@@ -88,6 +88,20 @@ I regularly contribute to technical topics on [Medium](https://medium.com/@jacob
     In this article, I explore the competitive landscape of multimodal AI models by setting up an "AI Telephone" experiment. I discuss the intricacies of various models and how they perform in this unique setup.
   </td>
 </tr>
+<tr>
+  <td>
+    <a href="https://towardsdatascience.com/an-ode-to-my-physics-ph-d-718894196f91" title="An Ode to my Physics Ph.D.">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ui01e0ixX0-QTNR2C8mUAg.jpeg" alt="An Ode to my Physics Ph.D." width="300px" style="border-radius: 8px; margin-right: 20px;"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://towardsdatascience.com/an-ode-to-my-physics-ph-d-718894196f91">
+      <strong>An Ode to my Physics Ph.D.</strong>
+    </a><br/>
+    <strong>July 18, 2023</strong> | <strong>Towards Data Science</strong><br/>
+    In this article, I open up on the journey from physics to machine learning, the challenge of transitioning into industry, and lessons learned along the way!
+  </td>
+</tr>
   </table>
   
 </details>
