@@ -7,12 +7,6 @@ I'm Jacob, a Machine Learning Engineer & Developer Evangelist at
 </a>,
 where we're revolutionizing AI and computer vision with our powerful open-source toolset, 
 <a href="https://github.com/voxel51/fiftyone">FiftyOne</a>. 
-I'm also the editor for 
-<a href="https://alphasignal.ai/">Alpha Signal</a> 
-<a href="https://alphasignal.ai/">
-  <img src="https://media.licdn.com/dms/image/D560BAQE4_broQj0Xcg/company-logo_200_200/0/1695847403029?e=1706140800&v=beta&t=IRrJtJdobTBr7uXAdqIYV-X4TVUg_vC5TWEz0y6F-rk" width="16" height="16" alt="alpha signal icon" style="margin-left: 1px; margin-right: 0px;"/>
-</a>, the most read technical newsletter in AI.
-
 
 
 ## 🎓 Education
@@ -22,7 +16,7 @@ I'm also the editor for
 
   
 ## 📝 Blogging & Writing
-I regularly contribute to technical topics on [Medium](https://medium.com/@jacob_marks), where I have over 6,700 followers. My writings cover AI, ML, computer vision, data cleaning and curation, and more!
+I regularly contribute to technical topics on [Medium](https://medium.com/@jacob_marks), where I have over 7,200 followers. My writings cover AI, ML, computer vision, data cleaning and curation, and more!
 
 <details>
   <summary>See popular articles</summary>
@@ -96,6 +90,21 @@ I regularly contribute to technical topics on [Medium](https://medium.com/@jacob
     </a><br/>
     <strong>July 18, 2023</strong> | <strong>Towards Data Science</strong><br/>
     In this article, I open up on the journey from physics to machine learning, the challenge of transitioning into industry, and lessons learned along the way!
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="https://towardsdatascience.com/how-to-build-a-semantic-search-engine-for-emojis-ef4c75e3f7be" title="How to Build a Semantic Search Engine for Emojis">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-nBxFjs3i8vKVL3IfzfVaA.png" alt="How to Build a Semantic Search Engine for Emojis" width="300px" style="border-radius: 8px; margin-right: 20px;"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://towardsdatascience.com/how-to-build-a-semantic-search-engine-for-emojis-ef4c75e3f7be">
+      <strong>How to Build a Semantic Search Engine for Emojis</strong>
+    </a><br/>
+    <strong>January 09, 2024</strong> | <strong>Towards Data Science</strong><br/>
+    In this article, I detail the process of building a custom vector search pipeline utilizing
+    multimodal data, cross-encoders, and reranking!
   </td>
 </tr>
   </table>
