@@ -130,9 +130,10 @@ If you have an idea for an integration, plugin, blog post, or something else you
 Here is a short list of some open source libraries I love ❤️! I've contributed to some of them, and some I just love using 😎 
 
 <details>
-  <summary>Data Curation</summary>
+  <summary>Data</summary>
   <ul>
     <li><a href="https://github.com/voxel51/fiftyone">FiftyOne</a></li>
+    <li><a href="https://github.com/albumentations-team/albumentations">Albumentations</a></li>
   </ul>
 </details>
 
