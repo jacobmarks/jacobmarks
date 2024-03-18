@@ -142,6 +142,9 @@ Here is a short list of some open source libraries I love ❤️! I've contribut
     <li><a href="https://github.com/openvinotoolkit/openvino">OpenVINO</a></li>
     <li><a href="https://www.supergradients.com/">SuperGradients</a></li>
     <li><a href="https://github.com/ultralytics/ultralytics">Ultralytics</a></li>
+    <li><a href="https://github.com/mlfoundations/open_clip">OpenCLIP</a></li>
+    <li><a href="https://github.com/huggingface/transformers">Transformers</a></li>
+    <li><a href="https://github.com/huggingface/diffusers">Diffusers</a></li>
   </ul>
 </details>
 
