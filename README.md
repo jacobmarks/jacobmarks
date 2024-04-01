@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 
-I'm Jacob, a Machine Learning Engineer & Developer Evangelist at 
+I'm Jacob, a Senior Machine Learning Engineer & Researcher at 
 <a href="https://voxel51.com/">Voxel51</a> 
 <a href="https://voxel51.com/">
   <img src="https://gist.githubusercontent.com/jacobmarks/eb18cc90596f7310e4dad1be2526c070/raw/e05e51be697a9501f64fe8d1b7008fc5ebe56369/fiftyone_icon.svg" width="16" height="16" alt="voxel51 icon" style="margin-left: 1px; margin-right: 0px;"/>
