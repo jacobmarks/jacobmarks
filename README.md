@@ -116,6 +116,7 @@ I regularly contribute to technical topics on [Medium](https://medium.com/@jacob
 <a href="https://www.linkedin.com/in/jacob-marks" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@jacob_marks" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://twitter.com/QuantumMarks" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://huggingface.co/jamarks" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?&style=for-the-badge&logoColor=white" /></a>
 
 If you have an idea for an integration, plugin, blog post, or something else you'd like to chat about, feel free to reach out!
 
