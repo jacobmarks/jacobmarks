@@ -16,7 +16,7 @@ where we're revolutionizing AI and computer vision with our powerful open-source
 
   
 ## 📝 Blogging & Writing
-I regularly contribute to technical topics on [Medium](https://medium.com/@jacob_marks), where I have over 7,500 followers. My writings cover AI, ML, computer vision, data cleaning and curation, and more!
+I regularly contribute to technical topics on [Medium](https://medium.com/@jacob_marks), where I have over 8,000 followers. My writings cover AI, ML, computer vision, data cleaning and curation, and more!
 
 <details>
   <summary>See popular articles</summary>
