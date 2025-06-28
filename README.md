@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 
-I'm Jacob, a Member of Technical Staff at 
+I'm Jacob, Head of Data at 
 <a href="https://liquid.ai">Liquid AI</a>! 
 
 
